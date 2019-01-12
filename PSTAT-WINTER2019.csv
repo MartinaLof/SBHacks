@@ -1,0 +1,52 @@
+Code,Title,Time,Location,Professor,Size,Days
+PSTAT     5A,Statistics,9:00 am - 9:50 am,MUSICLLCH,SWENSON J S,450 / 450,M W F
+PSTAT     5A,Statistics,12:00pm - 12:50pm,PHELP1513,Messages:,25 / 25,M W
+PSTAT     5A,Statistics,4:00pm - 4:50pm,PSY-E1805,Messages:,25 / 25,T R
+PSTAT     5LS,Statistics for Life Sciences,8:00 am - 8:50 am,MUSICLLCH,SWENSON J S,261 / 350,M W F
+PSTAT     5LS,Statistics for Life Sciences,12:00pm - 12:50pm,SSMS 1304,Messages:,24 / 25,M W
+PSTAT     5LS,Statistics for Life Sciences,1:00pm - 1:50pm,PHELP1514,Messages:,25 / 25,M W
+PSTAT     5LS,Statistics for Life Sciences,2:00pm - 2:50pm,PHELP1518,Messages:,25 / 25,M W
+PSTAT     5LS,Statistics for Life Sciences,3:00pm - 3:50pm,SSMS 1303,Messages:,21 / 25,M W
+PSTAT     5LS,Statistics for Life Sciences,5:00pm - 5:50pm,PHELP1513,Messages:,17 / 25,M W
+PSTAT     5LS,Statistics for Life Sciences,9:00 am - 9:50 am,SSMS 1302,Messages:,21 / 25,T R
+PSTAT     5LS,Statistics for Life Sciences,10:00am - 10:50am,SSMS 1302,Messages:,25 / 25,T R
+PSTAT     5LS,Statistics for Life Sciences,2:00pm - 2:50pm,SSMS 1007,Messages:,24 / 25,T R
+PSTAT     5LS,Statistics for Life Sciences,5:00pm - 5:50pm,SSMS 1007,Messages:,22 / 25,T R
+PSTAT     5LS,Statistics for Life Sciences,6:00pm - 6:50pm,SSMS 1007,Messages:,16 / 25,T R
+PSTAT     5LS,Statistics for Life Sciences,5:00pm - 5:50pm,SSMS 1007,Messages:,16 / 25,M W
+PSTAT     5LS,Statistics for Life Sciences,9:00 am - 9:50 am,PHELP1526,Messages:,25 / 25,M W
+PSTAT    10,Introduction to Computing for Data Science,11:00am - 11:50am,IV   THEA1,HOLMES D E,325 / 325,M W F
+PSTAT    10,Introduction to Computing for Data Science,9:00 am - 9:50 am,PHELP1526,Messages:,24 / 25,T R
+PSTAT    10,Introduction to Computing for Data Science,9:00 am - 9:50 am,PSY-E1806,Messages:,25 / 25,T R
+PSTAT    10,Introduction to Computing for Data Science,11:00am - 11:50am,SSMS 1301,Messages:,25 / 25,T R
+PSTAT    10,Introduction to Computing for Data Science,1:00pm - 1:50pm,SSMS 1301,Messages:,25 / 25,T R
+PSTAT    10,Introduction to Computing for Data Science,2:00pm - 2:50pm,PHELP1526,Messages:,25 / 25,T R
+PSTAT    10,Introduction to Computing for Data Science,5:00pm - 5:50pm,SSMS 1304,Messages:,25 / 25,T R
+PSTAT    10,Introduction to Computing for Data Science,3:00pm - 3:50pm,SSMS 1302,Messages:,25 / 25,M W
+PSTAT    10,Introduction to Computing for Data Science,1:00pm - 1:50pm,PHELP1526,Messages:,25 / 25,M W
+PSTAT    10,Introduction to Computing for Data Science,2:00pm - 2:50pm,PSY-E1806,Messages:,25 / 25,M W
+PSTAT    10,Introduction to Computing for Data Science,2:00pm - 2:50pm,SSMS 1304,Messages:,25 / 25,M W
+PSTAT    10,Introduction to Computing for Data Science,5:00pm - 5:50pm,SSMS 1302,Messages:,25 / 25,M W
+PSTAT    10,Introduction to Computing for Data Science,7:00pm - 7:50pm,SSMS 1301,Messages:,25 / 25,M W
+PSTAT    10,Introduction to Computing for Data Science,1:00pm - 1:50pm,SSMS 1302,Messages:,26 / 25,T R
+PSTAT   109,Statistics for Economics,8:00 am - 8:50 am,BRDA 1610,NAVA M M,260 / 275,M W F
+PSTAT   120A,Probability and Statistics,12:30pm - 1:45pm,SH   1431,LI ZHIJIAN,100 / 100,W F
+PSTAT   120A,Probability and Statistics,5:00pm - 6:15pm,BIOEN1001,LI ZHIJIAN,89 / 97,T R
+PSTAT   120A,Probability and Statistics,12:30pm - 1:45pm,BUCHN1930,CHEN T,101 / 100,M W
+PSTAT   120A,Probability and Statistics,2:00pm - 3:15pm,BUCHN1930,SHATSKIKH E,91 / 100,T R
+PSTAT   120B,Probability and Statistics,11:00am - 12:15pm,NH   1006,BAPAT S R,135 / 135,M W
+PSTAT   120B,Probability and Statistics,2:00pm - 3:15pm,BUCHN1940,ROY T,129 / 135,M W
+PSTAT   120C,Probability and Statistics,8:00 am - 9:15 am,TD-W 1701,CARTER A V,110 / 111,W F
+PSTAT   122,Design and Analysis of Experiments,11:00am - 11:50am,ICA  1003,ROY T,91 / 98,M W
+PSTAT   126,Regression Analysis,11:00am - 12:15pm,NH   1006,MYUNG JIYOUN,105 / 125,T R
+PSTAT   127,Advanced Statistical Models,2:00pm - 3:15pm,SH   1431,PETERSEN A M,74 / 75,T R
+PSTAT   131,Introduction to Statistical Machine Learning,11:00am - 12:15pm,CHEM 1171,OH SANG-YUN,79 / 80,T R
+PSTAT   135,Big Data Analytics,3:30pm - 4:45pm,SSMS 1301&,TASHMAN A P,29 / 0,T R
+PSTAT   160A,Applied Stochastic Processes,3:30pm - 4:45pm,BIOEN1001,DETERING N,73 / 97,T R
+PSTAT   160A,Applied Stochastic Processes,9:30 am - 10:45am,CHEM 1171,HOHN M E,97 / 100,T R
+PSTAT   170,Introduction to Mathematical Finance,9:30 am - 10:45am,ICA  1003,CHEN T,107 / 110,M W
+PSTAT   171,Mathematics of Fixed Income Markets,12:30pm - 1:45pm,BUCHN1930,GUO QIHENG,108 / 110,T R
+PSTAT   172A,Actuarial Statistics I,8:00 am - 9:15 am,PSYCH1924,DUNCAN I,100 / 100,T R
+PSTAT   173,Risk Theory,9:30 am - 10:45am,PSYCH1902,HAYNE R M,80 / 81,T R
+PSTAT   174,Time Series,2:00pm - 3:15pm,BUCHN1930,BAPAT S R,79 / 80,M W
+PSTAT   199,Independent Studies in Statistics,R,9:00 am - 10:50am,INSTRUCTOR APPROVAL REQUIRED PRIOR TO REGISTRATION.,0 / 10,T B A
