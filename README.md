@@ -3,7 +3,7 @@
 # OptiCourse/OptiClass
 
 OptiCourse is a course scheduler for university students that allows them to minimize their time on campus based on a set of mandatory and elective courses.
-​
+
 ## Problem/Audience
 
 A recurring issue for most university students is that they waste time defining their schedules at the beginning of a quarter or semester. Most students want to minimize break times between classes to enjoy their free time, extracurricular activities and organize extended study periods. According to FileMaker's survey on the nation's college students, 88 percent of college students want to improve their ability to manage their time. There is the need to automate the scheduling process of classes and minimize break times for students to focus on the right things as soon as possible.
@@ -18,7 +18,7 @@ By clicking on the organize bottom, the page will lead the user to a scheduling 
 ## Models
 
 <li>User</li>
-​
+
 ## Views
 
 <li>Course Search</li>
@@ -45,8 +45,8 @@ Final schedule
 ## Other
 
 - Languages: HTML, CSS, TypeScript, Python
-- Technologies: Angular, Overleaf
-​
+- Technologies: Angular, Overleaf, Software for Convex Optimization
+
 ## SBHacks Milestones
 - Course Database (Json)
 - Break time minimization algorithm (Python)
@@ -58,5 +58,5 @@ Final schedule
 - SB Hacks - Best Hack for College Students
 - LogMeIn - Best Use of Machine Learning
 - Domain.com - Best Domain Registered with Domain.com
-​
+
 ## Demo Photos
