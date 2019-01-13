@@ -5,3 +5,7 @@ mat-slider {
 .clicked {
     background-color: gray; 
 }
+
+h4 {
+    margin-top: 50px;
+}

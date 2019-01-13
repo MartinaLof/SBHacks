@@ -15,9 +15,18 @@ import {
   MatSidenavModule,
   MatSliderModule,
   MatCardModule,
+  MatDialogModule,
+  MatToolbarModule,
+  MatInputModule,
+  MatFormFieldModule,
+  MatIconModule,
+  MatGridListModule,
 } from '@angular/material';
+
 import { FilterComponent } from './filter/filter.component';
-import { FormsModule } from '@angular/forms';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
+import { ExtracurricularComponent } from './extracurricular/extracurricular.component';
+import { ExCurricularComponent } from './extracurricular/ex-curricular/ex-curricular.component';
 
 @NgModule({
   declarations: [
@@ -25,7 +34,9 @@ import { FormsModule } from '@angular/forms';
     NavbarComponent,
     HomeComponent,
     ResultsComponent,
-    FilterComponent
+    FilterComponent,
+    ExtracurricularComponent,
+    ExCurricularComponent
   ],
   imports: [
     BrowserModule,
@@ -36,9 +47,17 @@ import { FormsModule } from '@angular/forms';
     MatSidenavModule,
     MatSliderModule,
     MatCardModule,
-    FormsModule
+    FormsModule,
+    MatDialogModule,
+    MatToolbarModule,
+    MatInputModule,
+    MatFormFieldModule,
+    ReactiveFormsModule,
+    MatIconModule,
+    MatGridListModule
   ],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent],
+  entryComponents: [ExtracurricularComponent]
 })
 export class AppModule { }

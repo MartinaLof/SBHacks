@@ -1,0 +1,14 @@
+mat-form-field.title {
+    margin-bottom: 5px;
+    width: 250px;
+}
+
+mat-form-field.time {
+    margin-bottom: 5px;
+    width: 110px;
+}
+
+#close-icon {
+    float: right; 
+    position: relative;
+}

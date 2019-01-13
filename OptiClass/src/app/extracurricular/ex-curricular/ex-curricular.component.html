@@ -1,0 +1,53 @@
+<div id="close-icon">
+    <mat-icon (click)="onClose()">close</mat-icon>
+</div>
+  <h3>EXTRA CURRICULAR</h3>
+
+
+<form [formGroup]="service.form" class="normal-form">
+
+    <!-- Title -->
+    <mat-form-field class="title">
+      <input formControlName="title" matInput placeholder="Add Title*">
+      <mat-error>This field is mandatory.</mat-error>
+    </mat-form-field>
+
+    <!-- Days -->
+    <div>
+        <mat-checkbox formControlName="monday">Monday</mat-checkbox>
+    </div>
+    <div>
+        <mat-checkbox formControlName="tuesday">Tuesday</mat-checkbox>
+    </div>
+    <div>
+        <mat-checkbox formControlName="wednesday">Wednesday</mat-checkbox>
+    </div>
+    <div>
+        <mat-checkbox formControlName="thursday">Thursday</mat-checkbox>
+    </div>
+    <div>
+        <mat-checkbox formControlName="friday">Friday</mat-checkbox>
+    </div>
+
+    <!-- Times -->
+    <mat-grid-list cols="2">
+      <mat-grid-tile>
+    <mat-form-field class="time">
+        <input formControlName="timeFrom" matInput placeholder="From*">
+        <mat-error>This field is mandatory.</mat-error>
+    </mat-form-field>
+  </mat-grid-tile>
+
+      <mat-grid-tile>
+    <mat-form-field class="time">
+        <input formControlName="timeTo" matInput placeholder="To*">
+        <mat-error>This field is mandatory.</mat-error>
+    </mat-form-field>
+  </mat-grid-tile>
+  </mat-grid-list>
+
+  <div class="button-row center-content">
+      <button mat-raised-button color="primary" type="submit" [disabled]="service.form.invalid">Save</button>
+    </div>
+
+  </form>
