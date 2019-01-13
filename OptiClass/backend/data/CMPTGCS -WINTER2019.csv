@@ -1,0 +1,6 @@
+Code,Title,Time,Location,Professor,Size,Days,Lecture
+CMPTGCS   1B,Computer Programming and Organization II,7:00pm - 8:50pm,CRST 143,T B A,6 / 15,M W,['y']
+CMPTGCS   1L,Programming Laboratory,4:00pm - 5:50pm,CRST 143,T B A,10 / 12,T,['n']
+CMPTGCS  10,Computer Science Colloquium,1:00pm - 2:50pm,HFH  1132,T B A,9 / 20,F,['n']
+CMPTGCS  20,Special Topics in Computer Science,1:00pm - 2:50pm,CRST 143,T B A,9 / 20,T R,['y']
+CMPTGCS 130H,Advanced Topics in Computer Science,11:00am - 12:15pm,CRST 143,T B A,11 / 12,T R,['y']

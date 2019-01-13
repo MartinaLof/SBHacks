@@ -1,0 +1,13 @@
+Code,Title,Time,Location,Professor,Size,Days,Lecture
+MS        1AB,Basic Military Policies and Organizations,1:00pm - 1:50pm,PHELP1309,BUEHNER T D,15 / 25,M,['n']
+MS        1AB,Basic Military Policies and Organizations,9:00 am - 9:50 am,PHELP1309,BUEHNER T D,5 / 25,R,['n']
+MS        2AB,Foundations of Leadership II,11:00am - 11:50am,PHELP1309,BUEHNER T D,6 / 25,T,['n']
+MS        2AB,Foundations of Leadership II,11:00am - 11:50am,PHELP1309,BUEHNER T D,7 / 25,W,['n']
+MS       22,Basic Military Physical Conditioning,6:30 am - 7:30 am,RECENFIELD,BUEHNER T D,28 / 75,M W F,['y']
+MS       99,Independent Studies,8:00 am - 8:50 am,PHELP1309,BUEHNER T D,10 / 40,M W F,['y']
+MS      132,Tactical Leadership II,1:00pm - 1:50pm,PHELP1309,BUEHNER T D,11 / 25,T R,['y']
+MS      132,Tactical Leadership II,2:00pm - 4:50pm,PHELP1309,BUEHNER T D,11 / 25,R,['n']
+MS      142,Developmental Leadership II,2:30pm - 4:20pm,PHELP1309,BUEHNER T D,8 / 25,T,['n']
+MS      142,Developmental Leadership II,2:00pm - 4:50pm,PHELP1309,BUEHNER T D,8 / 25,R,['n']
+MS      190,Advanced Military Science Field Study,8:00 am - 8:50 am,451  123,BUEHNER T D,1 / 20,W,['n']
+MS      199,Independent Studies,8:00 am - 8:50 am,PHELP1309,BUEHNER T D,16 / 40,M W F,['y']

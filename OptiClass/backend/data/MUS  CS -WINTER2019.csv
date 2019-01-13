@@ -1,0 +1,6 @@
+Code,Title,Time,Location,Professor,Size,Days,Lecture
+MUS  CS  15,Music Colloquium,4:00pm - 5:50pm,CRST OLT,T B A,26 / 30,W,['n']
+MUS  CS 102,Analysis: Materials,12:00pm - 2:50pm,CRST 154,T B A,8 / 15,M,['n']
+MUS  CS 105,Special Topics,3:00pm - 4:50pm,MUSIC1145,T B A,0 / 5,T,['n']
+MUS  CS 105,Special Topics,12:30pm - 1:45pm,CRST 154,T B A,6 / 15,T R,['y']
+MUS  CS 105,Special Topics,12:00pm - 2:50pm,KERR 2110,T B A,17 / 20,W,['n']
