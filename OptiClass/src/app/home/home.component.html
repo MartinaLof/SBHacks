@@ -1,5 +1,19 @@
-<p>
-  home works!
-</p>
+	<!-- Initialize a new AngularJS app and associate it with a module named "instantSearch"-->
+	<body ng-app="instantSearch" ng-controller="InstantSearchController">
 
-<button mat-raised-button color="accent" routerLink="/results">Optimize</button>
+	<div class="bar">
+    <input type="text" ng-model="searchString" placeholder="Search courses for this quarter">
+    </div>
+    <ul>
+      <li ng-repeat="i in items | searchFor:searchString">
+        <a href="{{i.url}}"><img ng-src="{{i.image}}" /"></a>
+        <p>{{i.title}}</p>
+      </li>
+    </ul>
+
+    <button mat-raised-button color="accent" routerLink="/results">Optimize</button>
+
+    		<!-- Include AngularJS from Google's CDN -->
+    		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.0.7/angular.min.js"></script>
+    		<script src="script.js"></script>
+    </body>
