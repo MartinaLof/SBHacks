@@ -21,6 +21,7 @@ import {
   MatFormFieldModule,
   MatIconModule,
   MatGridListModule,
+  MatSelectModule,
 } from '@angular/material';
 
 import { FilterComponent } from './filter/filter.component';
@@ -36,7 +37,7 @@ import { ExCurricularComponent } from './extracurricular/ex-curricular/ex-curric
     ResultsComponent,
     FilterComponent,
     ExtracurricularComponent,
-    ExCurricularComponent
+    ExCurricularComponent,
   ],
   imports: [
     BrowserModule,
@@ -54,7 +55,8 @@ import { ExCurricularComponent } from './extracurricular/ex-curricular/ex-curric
     MatFormFieldModule,
     ReactiveFormsModule,
     MatIconModule,
-    MatGridListModule
+    MatGridListModule,
+    MatSelectModule
   ],
   providers: [],
   bootstrap: [AppComponent],
