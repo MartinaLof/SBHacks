@@ -1,6 +1,6 @@
 # SBHacks
 
-# OptiCourse/OptiClass
+# OptiClass
 
 OptiCourse is a course scheduler for university students that allows them to minimize their time on campus based on a set of mandatory and elective courses.
 
@@ -46,6 +46,7 @@ Final schedule
 
 - Languages: HTML, CSS, TypeScript, Python
 - Technologies: Angular, Overleaf, Software for Convex Optimization
+- Color: #364599
 
 ## SBHacks Milestones
 - Course Database (Json)
