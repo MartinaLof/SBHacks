@@ -1,6 +1,7 @@
 mat-form-field {
     margin: 20px;
     align-content: center;
+    background-color: rgba(255, 255, 255, 0.63);
 }
 
 .center-contents {
@@ -11,5 +12,7 @@ mat-form-field {
 
 h1 {
     font-family: 'Montserrat';
-    color: #364599;
+    color: white;
+    font-weight: normal;
+    margin-bottom: 50px;
 }
