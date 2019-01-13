@@ -1,14 +1,26 @@
 <div>
-    <p>
-      FILTER
-    </p>
       
-    <div class="Time">
+    <div class="time">
       <h4>Time</h4>
       <div>From {{ modelFrom }}</div>
       <mat-slider [(ngModel)]="modelFrom" [displayWith]="formatLabel" min="0" max="10" step="0.5"></mat-slider>
       <div>To {{ modelTo }}</div>
       <mat-slider [(ngModel)]="modelTo" [displayWith]="formatLabel" min="0" max="10" step="0.5"></mat-slider>
     </div>
+
+    <div class="day"> 
+      <h4>Days</h4>
+      <button mat-mini-fab color="accent" [ngClass]="{'clicked': mon}" (click)="monColor()">M</button>
+      <button mat-mini-fab color="accent" [ngClass]="{'clicked': tue}" (click)="tueColor()">T</button>
+      <button mat-mini-fab color="accent" [ngClass]="{'clicked': wed}" (click)="wedColor()">W</button>
+      <button mat-mini-fab color="accent" [ngClass]="{'clicked': thu}" (click)="thuColor()">Th</button>
+      <button mat-mini-fab color="accent" [ngClass]="{'clicked': fri}" (click)="friColor()">F</button>
+    </div>
+
+    <div class="block">
+      <h4>Extra Curriculars</h4>
+      <button mat-raised-button (click)="onAddCurricular()">Add +</button>      
+    </div>
+
 
 </div>
