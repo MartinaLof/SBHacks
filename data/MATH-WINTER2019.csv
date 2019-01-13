@@ -1,65 +1,223 @@
-Code,Title,Time,Location,Professor,Size,Days
-MATH      2B,Calculus with Algebra and Trigonometry,10:00am - 10:50am,BUCHN1930,GARFIELD P M,100 / 100,M W F
-MATH      2B,Calculus with Algebra and Trigonometry,5:00pm - 5:50pm,PHELP3519,MERKL K E,25 / 25,T R
-MATH      2B,Calculus with Algebra and Trigonometry,6:00pm - 6:50pm,ARTS 1356,MERKL K E,25 / 25,T R
-MATH      2B,Calculus with Algebra and Trigonometry,5:00pm - 5:50pm,PHELP2536,PABLO S R,25 / 25,T R
-MATH      2B,Calculus with Algebra and Trigonometry,6:00pm - 6:50pm,ARTS 1353,PABLO S R,25 / 25,T R
-MATH      3A,"Calculus with Applications, First Course",3:30pm - 4:45pm,NH   1006,YANG XU,100 / 100,T R
-MATH      3A,"Calculus with Applications, First Course",8:00 am - 9:15 am,NH   1006,KELZ J M,75 / 75,T R
-MATH      3B,"Calculus with Applications, Second Course",11:00am - 11:50am,LSB  1001,LOPEZ C,150 / 150,M W F
-MATH      3B,"Calculus with Applications, Second Course",11:00am - 12:15pm,IV   THEA1,LABUTIN D A,324 / 325,T R
-MATH      4A,Linear Algebra with Applications,8:00 am - 9:15 am,IV   THEA1,PONCE G,475 / 475,T R
-MATH      4B,Differential Equations,2:00pm - 3:15pm,CHEM 1179,KELZ J M,353 / 354,T R
-MATH      4B,Differential Equations,8:00 am - 9:15 am,LSB  1001,BUENO CACHADI,148 / 150,T R
-MATH      6A,"Vector Calculus with Applications, First Course",11:00am - 11:50am,HFH  1104,ZHANG YITANG,151 / 150,M W F
-MATH      6A,"Vector Calculus with Applications, First Course",8:00 am - 9:15 am,TD-W 1701,MILLETT K C,113 / 150,T R
-MATH      6A,"Vector Calculus with Applications, First Course",2:00pm - 3:15pm,LSB  1001,PAN J,149 / 150,T R
-MATH      6B,"Vector calculus with Applications, Second Course",2:00pm - 2:50pm,IV   THEA2,SHAKERIAN S,125 / 125,M W F
-MATH      6B,"Vector calculus with Applications, Second Course",8:00 am - 8:50 am,IV   THEA2,SHAKERIAN S,125 / 125,M W F
-MATH      8,Transition to Higher Mathematics,10:00am - 10:50am,PHELP1440,AVETISYAN Z,35 / 35,M W F
-MATH      8,Transition to Higher Mathematics,5:00pm - 5:50pm,ARTS 1356,SARAJIAN G P,18 / 18,T R
-MATH      8,Transition to Higher Mathematics,7:00pm - 7:50pm,PHELP2514,SARAJIAN G P,17 / 17,T R
-MATH      8,Transition to Higher Mathematics,11:00am - 12:15pm,PHELP1444,PATEL P,35 / 35,T R
-MATH      8,Transition to Higher Mathematics,7:00pm - 7:50pm,HSSB 2202,LAINEZ REYES,18 / 18,T R
-MATH      8,Transition to Higher Mathematics,6:00pm - 6:50pm,GIRV 1106,LAINEZ REYES,17 / 17,T R
-MATH      8,Transition to Higher Mathematics,2:00pm - 3:15pm,PHELP1444,DAI X Z,35 / 35,T R
-MATH      8,Transition to Higher Mathematics,6:00pm - 6:50pm,GIRV 1119,EPELBAUM D P,18 / 18,M W
-MATH      8,Transition to Higher Mathematics,7:00pm - 7:50pm,SH   1609,EPELBAUM D P,17 / 17,M W
-MATH      8,Transition to Higher Mathematics,1:00pm - 1:50pm,GIRV 2112,FRYER S,35 / 35,M W F
-MATH      8,Transition to Higher Mathematics,6:00pm - 6:50pm,GIRV 2127,VARBLE M R,18 / 18,M W
-MATH      8,Transition to Higher Mathematics,7:00pm - 7:50pm,PHELP2532,VARBLE M R,17 / 17,M W
-MATH      8,Transition to Higher Mathematics,8:00 am - 9:15 am,PHELP1440,GARCIA-CERVER,35 / 35,T R
-MATH      8,Transition to Higher Mathematics,6:00pm - 6:50pm,NH   1109,ROBINETT E L,18 / 18,M W
-MATH      8,Transition to Higher Mathematics,7:00pm - 7:50pm,HSSB 2202,ROBINETT E L,17 / 17,M W
-MATH      8,Transition to Higher Mathematics,2:00pm - 2:50pm,PHELP2514,SAMPERTON E G,35 / 35,M W F
-MATH      8,Transition to Higher Mathematics,5:00pm - 5:50pm,ARTS 1353,DEMER E M,18 / 18,T R
-MATH      8,Transition to Higher Mathematics,7:00pm - 7:50pm,GIRV 2119,DEMER E M,17 / 17,T R
-MATH     34A,Calculus for Social and Life Sciences,9:30 am - 10:45am,BUCHN1910,EBRAHIM E,250 / 250,T R
-MATH     34A,Calculus for Social and Life Sciences,9:00 am - 9:50 am,BUCHN1910,GARFIELD P M,250 / 250,M W F
-MATH     34B,Calculus for Social and Life Sciences,9:00 am - 9:50 am,CAMPBHALL,COOPER D,519 / 520,M W F
-MATH    100A,"Mathematics for Elementary Teaching, I",9:30 am - 10:45am,ED   4219,JACOB W B,28 / 30,T R
-MATH    101B,Mathematical Systems,12:30pm - 1:45pm,GIRV 1115,OGRAIN C M,25 / 45,T R
-MATH CS 101B,Problem Solving II,2:00pm - 3:15pm,CRST 164B,CASTEELS K L,23 / 25,T R
-MATH    102A,Modern Euclidean and Noneuclidean Geometry,9:30 am - 10:45am,ED   1217,OGRAIN C M,48 / 48,T R
-MATH    104A,Introduction Into Numerical Analysis,8:00 am - 9:15 am,PHELP1425,ATZBERGER P J,66 / 65,T R
-MATH    104B,Numerical Analysis,11:00am - 12:15pm,PHELP1425,CENICEROS H,60 / 60,T R
-MATH    104B,Numerical Analysis,8:00 am - 9:15 am,GIRV 2128,YANG XU,60 / 60,T R
-MATH    108A,Introduction to Linear Algebra,1:00pm - 1:50pm,TD-W 2600,LONG D D,60 / 60,M W F
-MATH    108A,Introduction to Linear Algebra,9:30 am - 10:45am,PHELP2516,GARCIA-CERVER,59 / 60,T R
-MATH CS 108A,Advanced Linear Algebra I,11:00am - 12:50pm,CRST 164B,CASTEELS K L,23 / 25,T R
-MATH    108B,Introduction to Linear Algebra,2:00pm - 3:15pm,NH   1105,PONCE G,57 / 60,T R
-MATH    108B,Introduction to Linear Algebra,10:00am - 10:50am,TD-W 2600,YE R,28 / 60,M W F
-MATH    111B,Abstract Algebra,11:00am - 11:50am,PHELP2524,ZHAO XIAOLEI,55 / 55,M W F
-MATH    115A,Introduction to Number Theory,2:00pm - 2:50pm,GIRV 1119,ZHANG YITANG,45 / 45,M W F
-MATH    117,Methods of Analysis,8:00 am - 9:15 am,SH   1430,TIAN K T,50 / 50,T R
-MATH    117,Methods of Analysis,9:00 am - 9:50 am,ARTS 1349,GOODEARL K,50 / 50,M W F
-MATH    117,Methods of Analysis,11:00am - 11:50am,ARTS 1353,VEGA GONZALEZ,50 / 50,M W F
-MATH CS 117,Introduction to Real Analysis,10:00am - 11:15am,CRST 164B,HUISGEN-ZIMME,18 / 20,M W F
-MATH    118B,Introduction to Real Analysis,9:30 am - 10:45am,GIRV 1115,SIDERIS T C,45 / 45,T R
-MATH    118B,Introduction to Real Analysis,12:30pm - 1:45pm,GIRV 1112,AKEMANN C A,45 / 45,T R
-MATH    119B,Chaotic Dynamics and Bifurcation Theory,3:30pm - 4:45pm,GIRV 1112,BIRNIR B,15 / 45,T R
-MATH CS 120,Special Topics,12:00pm - 1:15pm,CRST 164B,BUENO CACHADI,11 / 25,M W
-MATH    122A,Introduction to Theory of Complex Variables,11:00am - 12:15pm,GIRV 1115,PUTINAR M,45 / 45,T R
-MATH CS 122A,Complex Variables I,1:00pm - 2:15pm,CRST 164B,LABUTIN D A,9 / 25,T R
-MATH    124A,Partial Differential Equations,2:00pm - 3:15pm,PHELP2516,SIDERIS T C,50 / 50,T R
-MATH    137A,Graph and Network Theory,10:00am - 10:50am,ARTS 1349,CASTEELS K L,49 / 50,M W F
+Code,Title,Time,Location,Professor,Size,Days,Lecture
+MATH      2B,Calculus with Algebra and Trigonometry,10:00am - 10:50am,BUCHN1930,GARFIELD P M,100 / 100,M W F,['y']
+MATH      2B,Calculus with Algebra and Trigonometry,5:00pm - 5:50pm,PHELP3519,MERKL K E,25 / 25,T R,['y']
+MATH      2B,Calculus with Algebra and Trigonometry,6:00pm - 6:50pm,ARTS 1356,MERKL K E,25 / 25,T R,['y']
+MATH      2B,Calculus with Algebra and Trigonometry,5:00pm - 5:50pm,PHELP2536,PABLO S R,25 / 25,T R,['y']
+MATH      2B,Calculus with Algebra and Trigonometry,6:00pm - 6:50pm,ARTS 1353,PABLO S R,25 / 25,T R,['y']
+MATH      3A,"Calculus with Applications, First Course",3:30pm - 4:45pm,NH   1006,YANG XU,100 / 100,T R,['y']
+MATH      3A,"Calculus with Applications, First Course",8:00 am - 8:50 am,HSSB 1232,KALAULI A K,25 / 25,W,['n']
+MATH      3A,"Calculus with Applications, First Course",7:00pm - 7:50pm,HSSB 1228,REYES M A,25 / 25,W,['n']
+MATH      3A,"Calculus with Applications, First Course",5:00pm - 5:50pm,GIRV 2120,KALAULI A K,25 / 25,W,['n']
+MATH      3A,"Calculus with Applications, First Course",6:00pm - 6:50pm,HSSB 2251,REYES M A,25 / 25,W,['n']
+MATH      3A,"Calculus with Applications, First Course",8:00 am - 8:50 am,HSSB 1215,"CROSS-LISTED COURSE, REFER TO CURRENT CATALOG.",0 / 25,R,['n']
+MATH      3A,"Calculus with Applications, First Course",8:00 am - 9:15 am,NH   1006,KELZ J M,75 / 75,T R,['y']
+MATH      3A,"Calculus with Applications, First Course",7:00pm - 7:50pm,HSSB 1228,HIGGINS V B,25 / 25,M,['n']
+MATH      3A,"Calculus with Applications, First Course",6:00pm - 6:50pm,HSSB 1237,"CROSS-LISTED COURSE, REFER TO CURRENT CATALOG.",0 / 25,M,['n']
+MATH      3A,"Calculus with Applications, First Course",5:00pm - 5:50pm,HSSB 1227,HIGGINS V B,25 / 25,M,['n']
+MATH      3A,"Calculus with Applications, First Course",8:00 am - 8:50 am,HSSB 1224,HIGGINS V B,25 / 25,M,['n']
+MATH      3A,"Calculus with Applications, First Course",4:00pm - 4:50pm,HSSB 1232,"CROSS-LISTED COURSE, REFER TO CURRENT CATALOG.",0 / 25,M,['n']
+MATH      3B,"Calculus with Applications, Second Course",11:00am - 11:50am,LSB  1001,LOPEZ C,150 / 150,M W F,['y']
+MATH      3B,"Calculus with Applications, Second Course",8:00 am - 8:50 am,HSSB 1214,LOPEZ C,25 / 25,R,['n']
+MATH      3B,"Calculus with Applications, Second Course",5:00pm - 5:50pm,HSSB 1215,GONZALES D M,25 / 25,R,['n']
+MATH      3B,"Calculus with Applications, Second Course",6:00pm - 6:50pm,HSSB 1236,GONZALES D M,25 / 25,T,['n']
+MATH      3B,"Calculus with Applications, Second Course",7:00pm - 7:50pm,LSB  1101,GONZALES D M,25 / 25,R,['n']
+MATH      3B,"Calculus with Applications, Second Course",8:00 am - 8:50 am,HSSB 1214,GONZALES D M,25 / 25,T,['n']
+MATH      3B,"Calculus with Applications, Second Course",5:00pm - 5:50pm,HSSB 1228,GONZALES D M,25 / 25,T,['n']
+MATH      3B,"Calculus with Applications, Second Course",11:00am - 12:15pm,IV   THEA1,LABUTIN D A,324 / 325,T R,['y']
+MATH      3B,"Calculus with Applications, Second Course",8:00 am - 8:50 am,HSSB 1231,KIRBY G R,25 / 25,W,['n']
+MATH      3B,"Calculus with Applications, Second Course",5:00pm - 5:50pm,GIRV 2119,KIRBY G R,25 / 25,W,['n']
+MATH      3B,"Calculus with Applications, Second Course",6:00pm - 6:50pm,HSSB 1237,KIRBY G R,25 / 25,W,['n']
+MATH      3B,"Calculus with Applications, Second Course",7:00pm - 7:50pm,HSSB 1227,"CROSS-LISTED COURSE, REFER TO CURRENT CATALOG.",0 / 25,W,['n']
+MATH      3B,"Calculus with Applications, Second Course",8:00 am - 8:50 am,HSSB 1228,MARTINS RODRI,25 / 25,W,['n']
+MATH      3B,"Calculus with Applications, Second Course",5:00pm - 5:50pm,GIRV 2116,MARTINS RODRI,25 / 25,W,['n']
+MATH      3B,"Calculus with Applications, Second Course",6:00pm - 6:50pm,HSSB 1236,MARTINS RODRI,25 / 25,W,['n']
+MATH      3B,"Calculus with Applications, Second Course",4:00pm - 4:50pm,GIRV 2115,MARTINS RODRI,25 / 25,W,['n']
+MATH      3B,"Calculus with Applications, Second Course",8:00 am - 8:50 am,HSSB 1215,PARKER M,24 / 25,M,['n']
+MATH      3B,"Calculus with Applications, Second Course",5:00pm - 5:50pm,HSSB 1224,KIRBY G R,25 / 25,M,['n']
+MATH      3B,"Calculus with Applications, Second Course",6:00pm - 6:50pm,HSSB 1236,PARKER M,25 / 25,M,['n']
+MATH      3B,"Calculus with Applications, Second Course",7:00pm - 7:50pm,HSSB 1227,PARKER M,25 / 25,M,['n']
+MATH      3B,"Calculus with Applications, Second Course",8:00 am - 8:50 am,HSSB 1214,"CROSS-LISTED COURSE, REFER TO CURRENT CATALOG.",0 / 25,M,['n']
+MATH      3B,"Calculus with Applications, Second Course",5:00pm - 5:50pm,HSSB 1223,PARKER M,25 / 25,M,['n']
+MATH      3B,"Calculus with Applications, Second Course",6:00pm - 6:50pm,HSSB 1233,KIRBY G R,25 / 25,M,['n']
+MATH      3B,"Calculus with Applications, Second Course",7:00pm - 7:50pm,HSSB 1224,"CROSS-LISTED COURSE, REFER TO CURRENT CATALOG.",0 / 25,M,['n']
+MATH      3B,"Calculus with Applications, Second Course",5:00pm - 5:50pm,GIRV 2115,"CROSS-LISTED COURSE, REFER TO CURRENT CATALOG.",0 / 25,W,['n']
+MATH      3B,"Calculus with Applications, Second Course",6:00pm - 6:50pm,HSSB 1233,"CROSS-LISTED COURSE, REFER TO CURRENT CATALOG.",0 / 25,W,['n']
+MATH      3B,"Calculus with Applications, Second Course",4:00pm - 4:50pm,GIRV 2112,"CROSS-LISTED COURSE, REFER TO CURRENT CATALOG.",0 / 25,W,['n']
+MATH      3B,"Calculus with Applications, Second Course",8:00 am - 8:50 am,HSSB 1227,"CROSS-LISTED COURSE, REFER TO CURRENT CATALOG.",0 / 25,W,['n']
+MATH      3B,"Calculus with Applications, Second Course",7:00pm - 7:50pm,HSSB 1224,"CROSS-LISTED COURSE, REFER TO CURRENT CATALOG.",0 / 25,W,['n']
+MATH      4A,Linear Algebra with Applications,8:00 am - 9:15 am,IV   THEA1,PONCE G,475 / 475,T R,['y']
+MATH      4A,Linear Algebra with Applications,8:00 am - 8:50 am,HSSB 1211,ROBERTS J A,25 / 25,M,['n']
+MATH      4A,Linear Algebra with Applications,8:00 am - 8:50 am,HSSB 1207,BAGHERI A R,25 / 25,M,['n']
+MATH      4A,Linear Algebra with Applications,5:00pm - 5:50pm,SH   1609,BAGHERI A R,25 / 25,W,['n']
+MATH      4A,Linear Algebra with Applications,5:00pm - 5:50pm,HSSB 1210,HAWKINS C P,25 / 25,M,['n']
+MATH      4A,Linear Algebra with Applications,6:00pm - 6:50pm,HSSB 1228,HAWKINS C P,25 / 25,M,['n']
+MATH      4A,Linear Algebra with Applications,7:00pm - 7:50pm,HSSB 1223,HAWKINS C P,25 / 25,M,['n']
+MATH      4A,Linear Algebra with Applications,8:00 am - 8:50 am,HSSB 1224,ROBERTS J A,25 / 25,W,['n']
+MATH      4A,Linear Algebra with Applications,8:00 am - 8:50 am,HSSB 1215,Messages:,0 / 25,W,['n']
+MATH      4A,Linear Algebra with Applications,4:00pm - 4:50pm,GIRV 1116,BUENO C,25 / 25,W,['n']
+MATH      4A,Linear Algebra with Applications,5:00pm - 5:50pm,HSSB 2251,BUENO C,25 / 25,W,['n']
+MATH      4A,Linear Algebra with Applications,6:00pm - 6:50pm,HSSB 1228,BUENO C,25 / 25,W,['n']
+MATH      4A,Linear Algebra with Applications,7:00pm - 7:50pm,HSSB 1223,Messages:,0 / 25,W,['n']
+MATH      4A,Linear Algebra with Applications,6:00pm - 6:50pm,HSSB 1227,BAGHERI A R,25 / 25,W,['n']
+MATH      4A,Linear Algebra with Applications,4:00pm - 4:50pm,387  1015,BAGHERI A R,25 / 25,W,['n']
+MATH      4A,Linear Algebra with Applications,5:00pm - 5:50pm,HSSB 1207,BUENO C,25 / 25,M,['n']
+MATH      4A,Linear Algebra with Applications,6:00pm - 6:50pm,HSSB 1227,BUENO C,25 / 25,M,['n']
+MATH      4A,Linear Algebra with Applications,7:00pm - 7:50pm,HSSB 1211,BUENO C,25 / 25,M,['n']
+MATH      4A,Linear Algebra with Applications,5:00pm - 5:50pm,HSSB 1206,PEDRICK M G,25 / 25,M,['n']
+MATH      4A,Linear Algebra with Applications,6:00pm - 6:50pm,HSSB 1224,PEDRICK M G,25 / 25,M,['n']
+MATH      4A,Linear Algebra with Applications,8:00 am - 8:50 am,HSSB 1206,PEDRICK M G,25 / 25,M,['n']
+MATH      4A,Linear Algebra with Applications,7:00pm - 7:50pm,HSSB 1210,PEDRICK M G,25 / 25,M,['n']
+MATH      4B,Differential Equations,2:00pm - 3:15pm,CHEM 1179,KELZ J M,353 / 354,T R,['y']
+MATH      4B,Differential Equations,5:00pm - 5:50pm,LSB  1101,NGUYEN D,24 / 25,M,['n']
+MATH      4B,Differential Equations,6:00pm - 6:50pm,HSSB 1223,NGUYEN D,25 / 25,M,['n']
+MATH      4B,Differential Equations,7:00pm - 7:50pm,LSB  1101,NGUYEN D,25 / 25,M,['n']
+MATH      4B,Differential Equations,8:00 am - 8:50 am,HSSB 1214,CHEN Q,25 / 25,W,['n']
+MATH      4B,Differential Equations,8:00 am - 8:50 am,LSB  1101,RAYDAN A,25 / 25,M,['n']
+MATH      4B,Differential Equations,5:00pm - 5:50pm,HSSB 1237,CHEN Q,25 / 25,W,['n']
+MATH      4B,Differential Equations,6:00pm - 6:50pm,HSSB 1224,CHEN Q,25 / 25,W,['n']
+MATH      4B,Differential Equations,5:00pm - 5:50pm,BUCHN1934,RAYDAN A,25 / 25,M,['n']
+MATH      4B,Differential Equations,6:00pm - 6:50pm,HSSB 1210,RAYDAN A,25 / 25,M,['n']
+MATH      4B,Differential Equations,7:00pm - 7:50pm,HSSB 1211,CHEN Q,25 / 25,W,['n']
+MATH      4B,Differential Equations,7:00pm - 7:50pm,BUCHN1934,RAYDAN A,25 / 25,M,['n']
+MATH      4B,Differential Equations,8:00 am - 8:50 am,BUCHN1934,NGUYEN D,25 / 25,M,['n']
+MATH      4B,Differential Equations,6:00pm - 6:50pm,PHELP2532,NGUYEN D,27 / 27,W,['n']
+MATH      4B,Differential Equations,7:00pm - 7:50pm,GIRV 2124,NGUYEN D,27 / 27,W,['n']
+MATH      4B,Differential Equations,8:00 am - 9:15 am,LSB  1001,BUENO CACHADI,148 / 150,T R,['y']
+MATH      4B,Differential Equations,8:00 am - 8:50 am,HSSB 1211,GORMAN C H,25 / 25,W,['n']
+MATH      4B,Differential Equations,5:00pm - 5:50pm,HSSB 1227,GORMAN C H,23 / 25,T,['n']
+MATH      4B,Differential Equations,4:00pm - 4:50pm,PHELP1448,GORMAN C H,25 / 25,W,['n']
+MATH      4B,Differential Equations,5:00pm - 5:50pm,HSSB 1236,GORMAN C H,25 / 25,W,['n']
+MATH      4B,Differential Equations,6:00pm - 6:50pm,HSSB 1223,GORMAN C H,25 / 25,W,['n']
+MATH      4B,Differential Equations,7:00pm - 7:50pm,HSSB 1210,GORMAN C H,25 / 25,W,['n']
+MATH      6A,"Vector Calculus with Applications, First Course",11:00am - 11:50am,HFH  1104,ZHANG YITANG,151 / 150,M W F,['y']
+MATH      6A,"Vector Calculus with Applications, First Course",4:00pm - 4:50pm,HSSB 1237,LU D,25 / 25,T,['n']
+MATH      6A,"Vector Calculus with Applications, First Course",5:00pm - 5:50pm,HSSB 1224,LU D,26 / 25,T,['n']
+MATH      6A,"Vector Calculus with Applications, First Course",6:00pm - 6:50pm,HSSB 1233,LU D,25 / 25,T,['n']
+MATH      6A,"Vector Calculus with Applications, First Course",7:00pm - 7:50pm,HSSB 1210,LU D,25 / 25,T,['n']
+MATH      6A,"Vector Calculus with Applications, First Course",8:00 am - 8:50 am,HSSB 1211,LU D,25 / 25,T,['n']
+MATH      6A,"Vector Calculus with Applications, First Course",8:00 am - 8:50 am,HSSB 1207,LU D,25 / 25,W,['n']
+MATH      6A,"Vector Calculus with Applications, First Course",8:00 am - 9:15 am,TD-W 1701,MILLETT K C,113 / 150,T R,['y']
+MATH      6A,"Vector Calculus with Applications, First Course",5:00pm - 5:50pm,HSSB 1233,FROST G A,24 / 25,W,['n']
+MATH      6A,"Vector Calculus with Applications, First Course",6:00pm - 6:50pm,HSSB 1210,FROST G A,18 / 25,W,['n']
+MATH      6A,"Vector Calculus with Applications, First Course",7:00pm - 7:50pm,LSB  1101,FROST G A,17 / 25,W,['n']
+MATH      6A,"Vector Calculus with Applications, First Course",8:00 am - 8:50 am,HSSB 1206,FROST G A,18 / 25,W,['n']
+MATH      6A,"Vector Calculus with Applications, First Course",12:00pm - 12:50pm,PHELP3519,FROST G A,14 / 25,W,['n']
+MATH      6A,"Vector Calculus with Applications, First Course",4:00pm - 4:50pm,PHELP1445,FROST G A,22 / 25,W,['n']
+MATH      6A,"Vector Calculus with Applications, First Course",2:00pm - 3:15pm,LSB  1001,PAN J,149 / 150,T R,['y']
+MATH      6A,"Vector Calculus with Applications, First Course",8:00 am - 8:50 am,HSSB 1211,QIU Y,25 / 25,R,['n']
+MATH      6A,"Vector Calculus with Applications, First Course",6:00pm - 6:50pm,HSSB 1227,QIU Y,25 / 25,R,['n']
+MATH      6A,"Vector Calculus with Applications, First Course",5:00pm - 5:50pm,HSSB 1215,QIU Y,25 / 25,T,['n']
+MATH      6A,"Vector Calculus with Applications, First Course",8:00 am - 8:50 am,HSSB 1207,QIU Y,25 / 25,T,['n']
+MATH      6A,"Vector Calculus with Applications, First Course",6:00pm - 6:50pm,HSSB 1228,QIU Y,24 / 25,T,['n']
+MATH      6A,"Vector Calculus with Applications, First Course",5:00pm - 5:50pm,HSSB 1214,QIU Y,25 / 25,R,['n']
+MATH      6B,"Vector calculus with Applications, Second Course",2:00pm - 2:50pm,IV   THEA2,SHAKERIAN S,125 / 125,M W F,['y']
+MATH      6B,"Vector calculus with Applications, Second Course",8:00 am - 8:50 am,HSSB 1207,YAN J,25 / 25,R,['n']
+MATH      6B,"Vector calculus with Applications, Second Course",7:00pm - 7:50pm,BUCHN1934,YAN J,25 / 25,R,['n']
+MATH      6B,"Vector calculus with Applications, Second Course",6:00pm - 6:50pm,HSSB 1227,YAN J,25 / 25,T,['n']
+MATH      6B,"Vector calculus with Applications, Second Course",5:00pm - 5:50pm,HSSB 1211,YAN J,25 / 25,R,['n']
+MATH      6B,"Vector calculus with Applications, Second Course",7:00pm - 7:50pm,LSB  1101,YAN J,25 / 25,T,['n']
+MATH      6B,"Vector calculus with Applications, Second Course",8:00 am - 8:50 am,IV   THEA2,SHAKERIAN S,125 / 125,M W F,['y']
+MATH      6B,"Vector calculus with Applications, Second Course",5:00pm - 5:50pm,HSSB 1214,MCGRATH G P,25 / 25,T,['n']
+MATH      6B,"Vector calculus with Applications, Second Course",6:00pm - 6:50pm,HSSB 1224,MCGRATH G P,25 / 25,T,['n']
+MATH      6B,"Vector calculus with Applications, Second Course",7:00pm - 7:50pm,BUCHN1934,MCGRATH G P,25 / 25,T,['n']
+MATH      6B,"Vector calculus with Applications, Second Course",6:00pm - 6:50pm,HSSB 1224,MCGRATH G P,25 / 25,R,['n']
+MATH      6B,"Vector calculus with Applications, Second Course",5:00pm - 5:50pm,HSSB 1207,MCGRATH G P,25 / 25,R,['n']
+MATH      7H,Honors Seminar-Calculus,2:00pm - 3:15pm,GIRV 2108,CASTEELS K L,35 / 35,M,['n']
+MATH      8,Transition to Higher Mathematics,10:00am - 10:50am,PHELP1440,AVETISYAN Z,35 / 35,M W F,['y']
+MATH      8,Transition to Higher Mathematics,5:00pm - 5:50pm,ARTS 1356,SARAJIAN G P,18 / 18,T R,['y']
+MATH      8,Transition to Higher Mathematics,7:00pm - 7:50pm,PHELP2514,SARAJIAN G P,17 / 17,T R,['y']
+MATH      8,Transition to Higher Mathematics,11:00am - 12:15pm,PHELP1444,PATEL P,35 / 35,T R,['y']
+MATH      8,Transition to Higher Mathematics,7:00pm - 7:50pm,HSSB 2202,LAINEZ REYES,18 / 18,T R,['y']
+MATH      8,Transition to Higher Mathematics,6:00pm - 6:50pm,GIRV 1106,LAINEZ REYES,17 / 17,T R,['y']
+MATH      8,Transition to Higher Mathematics,2:00pm - 3:15pm,PHELP1444,DAI X Z,35 / 35,T R,['y']
+MATH      8,Transition to Higher Mathematics,6:00pm - 6:50pm,GIRV 1119,EPELBAUM D P,18 / 18,M W,['y']
+MATH      8,Transition to Higher Mathematics,7:00pm - 7:50pm,SH   1609,EPELBAUM D P,17 / 17,M W,['y']
+MATH      8,Transition to Higher Mathematics,1:00pm - 1:50pm,GIRV 2112,FRYER S,35 / 35,M W F,['y']
+MATH      8,Transition to Higher Mathematics,6:00pm - 6:50pm,GIRV 2127,VARBLE M R,18 / 18,M W,['y']
+MATH      8,Transition to Higher Mathematics,7:00pm - 7:50pm,PHELP2532,VARBLE M R,17 / 17,M W,['y']
+MATH      8,Transition to Higher Mathematics,8:00 am - 9:15 am,PHELP1440,GARCIA-CERVER,35 / 35,T R,['y']
+MATH      8,Transition to Higher Mathematics,6:00pm - 6:50pm,NH   1109,ROBINETT E L,18 / 18,M W,['y']
+MATH      8,Transition to Higher Mathematics,7:00pm - 7:50pm,HSSB 2202,ROBINETT E L,17 / 17,M W,['y']
+MATH      8,Transition to Higher Mathematics,2:00pm - 2:50pm,PHELP2514,SAMPERTON E G,35 / 35,M W F,['y']
+MATH      8,Transition to Higher Mathematics,5:00pm - 5:50pm,ARTS 1353,DEMER E M,18 / 18,T R,['y']
+MATH      8,Transition to Higher Mathematics,7:00pm - 7:50pm,GIRV 2119,DEMER E M,17 / 17,T R,['y']
+MATH     34A,Calculus for Social and Life Sciences,9:30 am - 10:45am,BUCHN1910,EBRAHIM E,250 / 250,T R,['y']
+MATH     34A,Calculus for Social and Life Sciences,6:00pm - 6:50pm,GIRV 2112,SHIFLEY T H,25 / 25,T,['n']
+MATH     34A,Calculus for Social and Life Sciences,5:00pm - 5:50pm,SH   1609,SHIFLEY T H,25 / 25,T,['n']
+MATH     34A,Calculus for Social and Life Sciences,7:00pm - 7:50pm,HSSB 1236,SHIFLEY T H,25 / 25,T,['n']
+MATH     34A,Calculus for Social and Life Sciences,5:00pm - 5:50pm,HSSB 2251,SEHAYEK S B,25 / 25,T,['n']
+MATH     34A,Calculus for Social and Life Sciences,7:00pm - 7:50pm,HSSB 1233,SEHAYEK S B,25 / 25,T,['n']
+MATH     34A,Calculus for Social and Life Sciences,4:00pm - 4:50pm,NH   1111,"CROSS-LISTED COURSE, REFER TO CURRENT CATALOG.",0 / 25,T,['n']
+MATH     34A,Calculus for Social and Life Sciences,6:00pm - 6:50pm,GIRV 1116,SEHAYEK S B,25 / 25,T,['n']
+MATH     34A,Calculus for Social and Life Sciences,4:00pm - 4:50pm,HSSB 2251,"CROSS-LISTED COURSE, REFER TO CURRENT CATALOG.",0 / 25,T,['n']
+MATH     34A,Calculus for Social and Life Sciences,8:00 am - 8:50 am,HSSB 1228,SHIFLEY T H,25 / 25,T,['n']
+MATH     34A,Calculus for Social and Life Sciences,8:00 am - 8:50 am,HSSB 1227,SEHAYEK S B,25 / 25,T,['n']
+MATH     34A,Calculus for Social and Life Sciences,6:00pm - 6:50pm,GIRV 2108,ROGERS J J,25 / 25,T,['n']
+MATH     34A,Calculus for Social and Life Sciences,7:00pm - 7:50pm,HSSB 1228,ROGERS J J,25 / 25,T,['n']
+MATH     34A,Calculus for Social and Life Sciences,9:00 am - 9:50 am,BUCHN1910,GARFIELD P M,250 / 250,M W F,['y']
+MATH     34A,Calculus for Social and Life Sciences,8:00 am - 8:50 am,HSSB 1232,ALAR D L,25 / 25,R,['n']
+MATH     34A,Calculus for Social and Life Sciences,5:00pm - 5:50pm,HSSB 2251,ALAR D L,25 / 25,R,['n']
+MATH     34A,Calculus for Social and Life Sciences,6:00pm - 6:50pm,GIRV 1112,ALAR D L,25 / 25,R,['n']
+MATH     34A,Calculus for Social and Life Sciences,7:00pm - 7:50pm,HSSB 1233,ALAR D L,25 / 25,R,['n']
+MATH     34A,Calculus for Social and Life Sciences,8:00 am - 8:50 am,HSSB 1231,SCHULTE A J,25 / 25,R,['n']
+MATH     34A,Calculus for Social and Life Sciences,5:00pm - 5:50pm,HSSB 1237,ROGERS J J,25 / 25,R,['n']
+MATH     34A,Calculus for Social and Life Sciences,6:00pm - 6:50pm,SH   1609,ROGERS J J,25 / 25,R,['n']
+MATH     34A,Calculus for Social and Life Sciences,7:00pm - 7:50pm,HSSB 1228,SCHULTE A J,25 / 25,R,['n']
+MATH     34A,Calculus for Social and Life Sciences,5:00pm - 5:50pm,HSSB 1232,SCHULTE A J,25 / 25,R,['n']
+MATH     34A,Calculus for Social and Life Sciences,7:00pm - 7:50pm,HSSB 1227,"CROSS-LISTED COURSE, REFER TO CURRENT CATALOG.",0 / 25,R,['n']
+MATH     34A,Calculus for Social and Life Sciences,8:00 am - 8:50 am,HSSB 1228,"CROSS-LISTED COURSE, REFER TO CURRENT CATALOG.",0 / 25,R,['n']
+MATH     34A,Calculus for Social and Life Sciences,6:00pm - 6:50pm,HSSB 2251,SCHULTE A J,25 / 25,R,['n']
+MATH     34B,Calculus for Social and Life Sciences,9:00 am - 9:50 am,CAMPBHALL,COOPER D,519 / 520,M W F,['y']
+MATH     34B,Calculus for Social and Life Sciences,8:00 am - 8:50 am,HSSB 1224,XUAN Y,26 / 26,T,['n']
+MATH     34B,Calculus for Social and Life Sciences,8:00 am - 8:50 am,HSSB 1223,TRISAL A V,26 / 26,T,['n']
+MATH     34B,Calculus for Social and Life Sciences,5:00pm - 5:50pm,HSSB 1237,TRISAL A V,26 / 26,T,['n']
+MATH     34B,Calculus for Social and Life Sciences,6:00pm - 6:50pm,SH   1609,TRISAL A V,26 / 26,T,['n']
+MATH     34B,Calculus for Social and Life Sciences,7:00pm - 7:50pm,HSSB 1227,TRISAL A V,26 / 26,T,['n']
+MATH     34B,Calculus for Social and Life Sciences,8:00 am - 8:50 am,HSSB 1227,GONZALEZ N,26 / 26,R,['n']
+MATH     34B,Calculus for Social and Life Sciences,6:00pm - 6:50pm,HSSB 1237,GONZALEZ N,26 / 26,R,['n']
+MATH     34B,Calculus for Social and Life Sciences,7:00pm - 7:50pm,HSSB 1224,GONZALEZ N,25 / 26,R,['n']
+MATH     34B,Calculus for Social and Life Sciences,8:00 am - 8:50 am,HSSB 1224,VANDEVEER J B,26 / 26,R,['n']
+MATH     34B,Calculus for Social and Life Sciences,5:00pm - 5:50pm,HSSB 1231,VANDEVEER J B,26 / 26,R,['n']
+MATH     34B,Calculus for Social and Life Sciences,6:00pm - 6:50pm,HSSB 1236,VANDEVEER J B,26 / 26,R,['n']
+MATH     34B,Calculus for Social and Life Sciences,7:00pm - 7:50pm,HSSB 1223,VANDEVEER J B,26 / 26,R,['n']
+MATH     34B,Calculus for Social and Life Sciences,8:00 am - 8:50 am,HSSB 1223,TRISAL A V,26 / 26,R,['n']
+MATH     34B,Calculus for Social and Life Sciences,6:00pm - 6:50pm,HSSB 1233,TRISAL A V,26 / 26,R,['n']
+MATH     34B,Calculus for Social and Life Sciences,7:00pm - 7:50pm,HSSB 1210,ALTHAUSER S B,26 / 26,R,['n']
+MATH     34B,Calculus for Social and Life Sciences,5:00pm - 5:50pm,HSSB 1232,"CROSS-LISTED COURSE, REFER TO CURRENT CATALOG.",0 / 25,T,['n']
+MATH     34B,Calculus for Social and Life Sciences,6:00pm - 6:50pm,HSSB 2251,"CROSS-LISTED COURSE, REFER TO CURRENT CATALOG.",0 / 25,T,['n']
+MATH     34B,Calculus for Social and Life Sciences,7:00pm - 7:50pm,HSSB 1224,"CROSS-LISTED COURSE, REFER TO CURRENT CATALOG.",0 / 25,T,['n']
+MATH     34B,Calculus for Social and Life Sciences,8:00 am - 8:50 am,HSSB 1215,"CROSS-LISTED COURSE, REFER TO CURRENT CATALOG.",0 / 25,T,['n']
+MATH     34B,Calculus for Social and Life Sciences,5:00pm - 5:50pm,HSSB 1228,"CROSS-LISTED COURSE, REFER TO CURRENT CATALOG.",0 / 25,R,['n']
+MATH     34B,Calculus for Social and Life Sciences,5:00pm - 5:50pm,HSSB 1227,"CROSS-LISTED COURSE, REFER TO CURRENT CATALOG.",0 / 25,R,['n']
+MATH     34B,Calculus for Social and Life Sciences,5:00pm - 5:50pm,HSSB 1231,XUAN Y,26 / 26,T,['n']
+MATH     34B,Calculus for Social and Life Sciences,6:00pm - 6:50pm,HSSB 1237,XUAN Y,26 / 26,T,['n']
+MATH     34B,Calculus for Social and Life Sciences,7:00pm - 7:50pm,HSSB 1223,XUAN Y,26 / 26,T,['n']
+MATH     34B,Calculus for Social and Life Sciences,5:00pm - 5:50pm,HSSB 1224,GONZALEZ N,26 / 26,R,['n']
+MATH     34B,Calculus for Social and Life Sciences,6:00pm - 6:50pm,HSSB 1228,ALTHAUSER S B,26 / 26,R,['n']
+MATH    100A,"Mathematics for Elementary Teaching, I",9:30 am - 10:45am,ED   4219,JACOB W B,28 / 30,T R,['y']
+MATH    101B,Mathematical Systems,12:30pm - 1:45pm,GIRV 1115,OGRAIN C M,25 / 45,T R,['y']
+MATH CS 101B,Problem Solving II,2:00pm - 3:15pm,CRST 164B,CASTEELS K L,23 / 25,T R,['y']
+MATH    102A,Modern Euclidean and Noneuclidean Geometry,9:30 am - 10:45am,ED   1217,OGRAIN C M,48 / 48,T R,['y']
+MATH    104A,Introduction Into Numerical Analysis,8:00 am - 9:15 am,PHELP1425,ATZBERGER P J,66 / 65,T R,['y']
+MATH    104B,Numerical Analysis,11:00am - 12:15pm,PHELP1425,CENICEROS H,60 / 60,T R,['y']
+MATH    104B,Numerical Analysis,8:00 am - 9:15 am,GIRV 2128,YANG XU,60 / 60,T R,['y']
+MATH    108A,Introduction to Linear Algebra,1:00pm - 1:50pm,TD-W 2600,LONG D D,60 / 60,M W F,['y']
+MATH    108A,Introduction to Linear Algebra,9:30 am - 10:45am,PHELP2516,GARCIA-CERVER,59 / 60,T R,['y']
+MATH CS 108A,Advanced Linear Algebra I,11:00am - 12:50pm,CRST 164B,CASTEELS K L,23 / 25,T R,['y']
+MATH    108B,Introduction to Linear Algebra,2:00pm - 3:15pm,NH   1105,PONCE G,57 / 60,T R,['y']
+MATH    108B,Introduction to Linear Algebra,10:00am - 10:50am,TD-W 2600,YE R,28 / 60,M W F,['y']
+MATH    111B,Abstract Algebra,11:00am - 11:50am,PHELP2524,ZHAO XIAOLEI,55 / 55,M W F,['y']
+MATH    115A,Introduction to Number Theory,2:00pm - 2:50pm,GIRV 1119,ZHANG YITANG,45 / 45,M W F,['y']
+MATH    117,Methods of Analysis,8:00 am - 9:15 am,SH   1430,TIAN K T,50 / 50,T R,['y']
+MATH    117,Methods of Analysis,9:00 am - 9:50 am,ARTS 1349,GOODEARL K,50 / 50,M W F,['y']
+MATH    117,Methods of Analysis,11:00am - 11:50am,ARTS 1353,VEGA GONZALEZ,50 / 50,M W F,['y']
+MATH CS 117,Introduction to Real Analysis,10:00am - 11:15am,CRST 164B,HUISGEN-ZIMME,18 / 20,M W F,['y']
+MATH    118B,Introduction to Real Analysis,9:30 am - 10:45am,GIRV 1115,SIDERIS T C,45 / 45,T R,['y']
+MATH    118B,Introduction to Real Analysis,12:30pm - 1:45pm,GIRV 1112,AKEMANN C A,45 / 45,T R,['y']
+MATH    119B,Chaotic Dynamics and Bifurcation Theory,3:30pm - 4:45pm,GIRV 1112,BIRNIR B,15 / 45,T R,['y']
+MATH CS 120,Special Topics,12:00pm - 1:15pm,CRST 164B,BUENO CACHADI,11 / 25,M W,['y']
+MATH    122A,Introduction to Theory of Complex Variables,11:00am - 12:15pm,GIRV 1115,PUTINAR M,45 / 45,T R,['y']
+MATH CS 122A,Complex Variables I,1:00pm - 2:15pm,CRST 164B,LABUTIN D A,9 / 25,T R,['y']
+MATH    124A,Partial Differential Equations,2:00pm - 3:15pm,PHELP2516,SIDERIS T C,50 / 50,T R,['y']
+MATH    137A,Graph and Network Theory,10:00am - 10:50am,ARTS 1349,CASTEELS K L,49 / 50,M W F,['y']
+MATH    194GS,Group Studies for Advanced Students,4:00pm - 4:50pm,CRST 164B,CASTEELS K L,2 / 15,T,['n']

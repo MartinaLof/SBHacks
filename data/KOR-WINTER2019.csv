@@ -1,0 +1,8 @@
+Code,Title,Time,Location,Professor,Size,Days,Lecture
+KOR       2,First Year Korean,8:00 am - 8:50 am,PHELP2536,LEE W A,33 / 30,MTWRF,['y']
+KOR       5,Second Year Korean,9:00 am - 9:50 am,PHELP2514,LEE W A,21 / 30,MTWRF,['y']
+KOR      20,The New Korean Wave,11:00am - 12:15pm,ED   1213,CHOI E,64 / 60,T R,['y']
+KOR      20,The New Korean Wave,11:00am - 11:50am,HSSB 3041,LA A S,16 / 20,F,['n']
+KOR      20,The New Korean Wave,3:00pm - 3:50pm,HSSB 2252,LA A S,23 / 20,R,['n']
+KOR      20,The New Korean Wave,4:00pm - 4:50pm,HSSB 2201,LA A S,25 / 20,R,['n']
+KOR     139,Contemporary Korean Cinema,2:00pm - 3:15pm,GIRV 2116,CHOI E,27 / 40,T R,['y']
