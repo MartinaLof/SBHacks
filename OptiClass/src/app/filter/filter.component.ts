@@ -9,8 +9,36 @@ export class FilterComponent implements OnInit {
 
   modelFrom = 0;
   modelTo = 0;
+  // newColor = false;
+  mon = false;
+  tue = false;
+  wed = false;
+  thu = false;
+  fri = false;
+  // id = document.getElementById('id');
 
   constructor() { }
+
+  // Button Toggle Colors
+  monColor() {
+    this.mon = !this.mon;
+  }
+
+  tueColor() {
+    this.tue = !this.tue;
+  }
+
+  wedColor() {
+    this.wed = !this.wed;
+  }
+
+  thuColor() {
+    this.thu = !this.thu;
+  }
+
+  friColor() {
+    this.fri = !this.fri;
+  }
 
   formatLabel (value: number | null) {
     if (!value) {
