@@ -15,6 +15,22 @@ A user lands on the home page and searches for the classes required for the seme
 By clicking on the organize bottom, the page will lead the user to a scheduling dashboard showing required and elective classes sorted by the least amount of break time during a day for a week. The user can block time for extracurricular activities in the "Extra Activities" section. The user can then drag the bottom to indicate the time where it wants the schedule to minimize for break times during the week based on the extracurricular activities, required and elective courses. Once the user sees the desired schedule, he or she can select it and a print-out version will be available.
 
 # Technical
+
+## Instructions for the Schedule Builder
+
+Goal: Convert viable schedules into a matrix that the user has freedom to modify and optimize an academic schedule.
+
+1. Go to the final cell of the iPython file:
+    1a. Input list of mandatory classes needed
+    1b. Input list of possible electives (as many as you want)
+    1c. Input the maximum number of classes you want for that semester
+
+2. Output a matrix scheme (168, 5) for timings with each built on 5 minute intervals of an optimal schedule times and what sections to get. Each column represents a time from 8 a.m. to 10 p.m. broken up into 5 minute intervals.
+
+3. Use your entire set of schedule timings to try and manage preferences and blocks in schedule however you want. You can modify the matrix and/or narrow down the "full schedules listing" in according to a given person's preference.
+
+4. Output a matrix that to be matched to the available scheduled blocks (represented by ones in the matrix) to find which courses and sections to open. For the read me and how to use schedule builder.
+
 ## Models
 
 <li>User</li>
@@ -58,6 +74,5 @@ Final schedule
 - Grand Prize
 - SB Hacks - Best Hack for College Students
 - LogMeIn - Best Use of Machine Learning
-- Domain.com - Best Domain Registered with Domain.com
 
 ## Demo Photos
