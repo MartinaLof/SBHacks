@@ -9,3 +9,8 @@ mat-slider {
 h4 {
     margin-top: 50px;
 }
+
+button {
+    background-color: slategray;
+    color: white;
+}
