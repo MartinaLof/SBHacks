@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [33.27600, -119.57699]
+      },
+      "properties": { "name": "value0" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [35.29182, 32.917633] },
+      "properties": {
+        "name": "Adrian"      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [35.0611, 33.2815] },
+      "properties": {
+        "name": "Chase"      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [34.8621, 33.0613] },
+      "properties": {
+        "name": "Lincoln"      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [35.1551, 33.2527] },
+      "properties": {
+        "name": "Jayden"      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [34.9047, 33.0816] },
+      "properties": {
+        "name": "Cameron"      }
+    }
+  ]
+}
